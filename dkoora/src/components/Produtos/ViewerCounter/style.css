@@ -1,0 +1,26 @@
+/* ViewerCounter.css */
+
+.viewer-counter {
+    display: flex;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .eye-icon {
+    margin-right: 8px; /* Espaço entre o ícone do olho e o texto */
+  }
+  
+  .eye-icon i {
+    animation: blink-animation 1s infinite; /* Adiciona a animação de piscar */
+  }
+  
+  /* Animação de piscar */
+  @keyframes blink-animation {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+  

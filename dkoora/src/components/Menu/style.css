@@ -1,0 +1,11 @@
+.link {
+    margin-top: 18px;
+    color:#000;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color:#000;
+}

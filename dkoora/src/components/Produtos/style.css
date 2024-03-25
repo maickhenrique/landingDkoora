@@ -1,0 +1,17 @@
+.card {
+    height: 100%;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  

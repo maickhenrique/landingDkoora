@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "Produto 2",
+    "descricao": "Descrição do Produto 2",
+    "valor": 149.99,
+    "estoque": 10,
+    "resumo": "Lorem ipsum dolor sit amet",
+    "slug": "produto-2",
+    "imagemPrincipal": "https://via.placeholder.com/150",
+    "imagensCarrossel": [
+      "https://via.placeholder.com/500x300",
+      "https://via.placeholder.com/500x300",
+      "https://via.placeholder.com/500x300"
+    ],
+    "dadosTecnicos": {
+      "tamanho": "Grande",
+      "peso": "2kg",
+      "cor": "Branco"
+    },
+    "usoCuidado": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque.",
+    "informacoesComplementares": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque."
+  },
+  
+    {
+      "id": 2,
+      "titulo": "Produto 2",
+      "descricao": "Descrição do Produto 2",
+      "valor": 149.99,
+      "imagem": "https://via.placeholder.com/150",
+      "dadosTecnicos": {
+        "tamanho": "Grande",
+        "peso": "2kg",
+        "cor": "Branco"
+      },
+      "usoCuidado": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque.",
+      "informacoesComplementares": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque."
+    },
+    {
+        "id": 2,
+        "titulo": "Produto 3",
+        "descricao": "Descrição do Produto 2",
+        "valor": 149.99,
+        "imagem": "https://via.placeholder.com/150",
+        "dadosTecnicos": {
+          "tamanho": "Grande",
+          "peso": "2kg",
+          "cor": "Branco"
+        },
+        "usoCuidado": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque.",
+        "informacoesComplementares": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque."
+      },
+      {
+        "id": 2,
+        "titulo": "Produto 2",
+        "descricao": "Descrição do Produto 2",
+        "valor": 149.99,
+        "imagem": "https://via.placeholder.com/150",
+        "dadosTecnicos": {
+          "tamanho": "Grande",
+          "peso": "2kg",
+          "cor": "Branco"
+        },
+        "usoCuidado": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque.",
+        "informacoesComplementares": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo urna et magna ultricies, id ultricies nulla scelerisque."
+      }
+  ]
+  

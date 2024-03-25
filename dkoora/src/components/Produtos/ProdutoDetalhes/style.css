@@ -1,0 +1,23 @@
+.container-produtoDetalhes {
+    margin-top: 50px;
+}
+
+h6 {
+    font-size: 32px;
+}
+
+.valor-produto {
+    color:brown;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.produto-estoque {
+    font-size: 18px;
+}
+
+.produto-desc {
+    font-size: 13px;
+    margin-top: 10px;
+    color:cadetblue;
+}
